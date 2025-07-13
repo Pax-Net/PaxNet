@@ -22,5 +22,13 @@ PaxNet leverages transparency, cultural sensitivity, and decentralized governanc
 - Recruit cultural liaisons and node contributors.
 - Expand the validation network.
 
+## Contributing
+We welcome contributors from all backgrounds. To contribute to PaxNet, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push the branch (`git push origin feature-branch`).
+5. Submit a pull request.
+
 ## Contact
 Open to collaborators—reach out via Issues!
